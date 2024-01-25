@@ -1,4 +1,4 @@
-# Forgotten Principles: It’s all about recycling
+# ReCy-Crafter: It’s all about recycling
 
 ## Description:
 * Video games and digital media can be of great assistance in inculcating habits that are essential but not flashy
